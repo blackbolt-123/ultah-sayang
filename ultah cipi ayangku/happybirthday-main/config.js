@@ -63,7 +63,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "happy birthday sayang. aku gak ngerti kenapa, tapi satu yang tak bisa lepas — hanya kamu yang mampu mencuri hatiku. semoga hari ini jadi hari yang paling indah buat kamu 💕",
+        "happy birthday sayang. aku gak ngerti kenapa, tapi satu yang tak bisa lepas hanya kamu yang mampu mencuri hatiku. semoga hari ini jadi hari yang paling indah buat kamu 💕",
       buttonText: "Kirim",
     },
     {
