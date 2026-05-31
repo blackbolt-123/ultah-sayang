@@ -101,10 +101,10 @@ const CONFIG = {
     {
       type: "slideshow",   // ← SECTION BARU (lihat Tugas 2)
       photos: [
-        { src: "./img/slide (1).jpg", caption: "Yang paling aku suka dari kamu..." },
+        { src: "./img/slide (1).jpg", caption: "sama kamu, hal random pun jadi momen favorit" },
         { src: "./img/slide (2).jpg", caption: "Senyum yang bikin aku tenang" },
-        { src: "./img/slide (3).jpg", caption: "Momen ini... aku gak mau lupa" },
-        { src: "./img/slide (4).jpg", caption: "Sama kamu rasanya beda" },
+        { src: "./img/slide (3).jpg", caption: "kamu adalah orang favoritku" },
+        { src: "./img/slide (4).jpg", caption: "lihat betapa indahnya dia..." },
         { src: "./img/slide (5).jpg", caption: "Ini salah satu favorit aku" },
         { src: "./img/slide (6).jpg", caption: "Selamat ulang tahun, sayangku 💕" },
       ],
